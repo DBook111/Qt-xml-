@@ -1,0 +1,13 @@
+<?xml version = "1.0" encoding = "GB2312"?>
+<data>
+ <people>
+  <Id>Devin</Id>
+  <Name>123</Name>
+  <Sex>ÄÐ</Sex>
+ </people>
+ <people>
+  <Id>Richard</Id>
+  <Name>1234</Name>
+  <Sex>ÄÐ</Sex>
+ </people>
+</data>
